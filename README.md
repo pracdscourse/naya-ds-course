@@ -1,1 +1,1 @@
-# naya_ds_course
+# naya-ds-course
